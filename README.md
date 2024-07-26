@@ -1,4 +1,4 @@
 # git-demo
 Learning git
 <br>
-Author - Tamim Ghazali
+Author - Tamim Ghazali (dotcom)
